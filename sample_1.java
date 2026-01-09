@@ -5,5 +5,6 @@ class Main
         int a=sc.nextInt();
         System.out.println(a);
         System.out.println("This code is wrong");
+        System.out.println("HIIIII");
     }
 }
